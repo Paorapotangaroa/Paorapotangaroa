@@ -1,6 +1,6 @@
 - Hi, I’m @Paorapotangaroa
 - I’m interested in all things JavaScript
-- I’m currently in my last year of the Masters of Information Systems at BYU
+- I recently graduated with my Master's of Information Systems Management from BYU
 
 
 <!---
